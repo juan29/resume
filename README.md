@@ -3,37 +3,7 @@ Juan Calderon
 jjcalderon29@gmail.com
 408-603-8455 
 
-SOFTWARE SUPPORT ENGINEER
-
-Extensive background in Industrial Engineering, Systems Engineering, and Data Analysis with over 10 years working experience as a Software Support Engineer in a global software support company achieving or exceeding customer satisfaction 98+% by providing remote support, and forum participation. 
-Has created documentation of solution procedures and tips to the knowledge database. By maintaining excellent communication with customers, developers, and management, helped to resolve escalated complex technical issues. 
-Proficient in Systems Administration, R, C, C++, Python. Working experience implementing relational database systems, experiments design. BSIE Degree with certificate in Information Systems Management.
-
-TECHNICAL QUALIFICATIONS 
-Operating Systems
-Applications
-
-
-
-
-
-Programming Languages:
-Databases:
-Systems Analysis Tools:
-
-Languages:	Windows, Linux, HP-UX
-Business Intelligence using MSSQL 2012, Data Warehouse, SSIS, SSAS.
-HP UCMDB Universal Configuration Management Database, Git/GitHub.
-HP Operations for windows, Performance Manager, Measureware, Reporter. Crystal Reports.
-MS Project, MS Excel, MS Visio, Smart Draw, ERWin.
-C/C++, SQL, R Language, Python, HTML5, XML.
-IDE: Eclipse, Code::Blocks, MS Visual Studio.
-Oracle 11g, MSSQL 2012, MYSQL, MS Access.
-DFD, ERD, SDLC, Normalization, Program Management
-Excel Advanced (Macros, Pivot tables, goal seek, Charts)
-Bilingual English/Spanish
-
-PROFESSIONAL EXPERIENCE
+SOFTWARE
 
 CCCTEK	 
 Data Analyst, San Jose, CA							May 2014 – Present
